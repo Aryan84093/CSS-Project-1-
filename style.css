@@ -1,0 +1,14 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+h1{
+    color: #1b74e4;
+}
+#src{
+    background-color: black;
+    color: white;
+}
+.log,.reg{
+    background-color: aqua;
+}
